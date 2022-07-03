@@ -1,1 +1,217 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T17:10:18.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="0a49N7NSLki-sMWJZPnu" type="github"><diagram id="-CiU27pWFB98loKzCeVX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-03T18:21:04.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fwC1FblAS2yFSPuEys7J" version="20.0.4" type="github">
+  <diagram id="-CiU27pWFB98loKzCeVX" name="Page-1">
+    <mxGraphModel dx="2137" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="300" as="sourcePoint" />
+            <mxPoint x="410" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-33" value="참" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-36" target="36XTxiDIFt-cpU3XtYKq-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-36" value="공복 혈당 x 입력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-40" value="거짓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="455" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-45" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-43" target="36XTxiDIFt-cpU3XtYKq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="390" />
+              <mxPoint x="490" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-43" target="36XTxiDIFt-cpU3XtYKq-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-43" value="70&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;x&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;90?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-47" target="36XTxiDIFt-cpU3XtYKq-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-47" target="36XTxiDIFt-cpU3XtYKq-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-47" value="x&amp;lt;70?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-49" target="36XTxiDIFt-cpU3XtYKq-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-49" target="36XTxiDIFt-cpU3XtYKq-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-49" value="시상하부에 낮은 혈당량 정보 전달" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-51" value="참" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-52" target="36XTxiDIFt-cpU3XtYKq-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-52" value="시상하부에 높은 혈당량 정보 전달" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-54" value="거짓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="495" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-57" value="x" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-61" target="36XTxiDIFt-cpU3XtYKq-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-61" value="교감신경 활성화" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="584" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-63" target="36XTxiDIFt-cpU3XtYKq-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-63" value="부신 속질에서 에피네프린 분비" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="714" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-69" target="36XTxiDIFt-cpU3XtYKq-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-69" value="이자 a세포에서 글루카곤 분비" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="714" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-71" target="36XTxiDIFt-cpU3XtYKq-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-71" value="간에서 글리코젠을 포도당으로 분해" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="854" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-74" target="36XTxiDIFt-cpU3XtYKq-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-74" value="x←x+1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="994" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-78" value="70&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;x&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;90?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1134" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-85" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=elbowEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="1174" as="sourcePoint" />
+            <mxPoint x="160" y="954" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="1064" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-86" value="거짓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1049" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-87" value="끝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1214" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-88" target="36XTxiDIFt-cpU3XtYKq-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-88" value="&amp;nbsp;교감신경 활성화" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="584" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-90" target="36XTxiDIFt-cpU3XtYKq-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-90" target="36XTxiDIFt-cpU3XtYKq-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-90" value="이자 b세포에서 인슐린 분비" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-92" value="조직세포에서 포도당 흡수" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="844" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-97" value="간에서 포도당을 글리코젠으로 분해" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="844" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-100" target="36XTxiDIFt-cpU3XtYKq-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-100" value="x←x+1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="984" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-101" value="70&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;x&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;90?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1124" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-102" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=elbowEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="1164" as="sourcePoint" />
+            <mxPoint x="590" y="964" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="1054" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-103" value="거짓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="1039" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="924" as="sourcePoint" />
+            <mxPoint x="590" y="984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="515" y="944" />
+              <mxPoint x="590" y="944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="924" as="sourcePoint" />
+            <mxPoint x="590" y="984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="665" y="944" />
+              <mxPoint x="590" y="944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-108" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;elbow=vertical;entryX=0.001;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="36XTxiDIFt-cpU3XtYKq-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1214" as="sourcePoint" />
+            <mxPoint x="340" y="1260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-109" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="36XTxiDIFt-cpU3XtYKq-101" target="36XTxiDIFt-cpU3XtYKq-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474.88" y="1248" as="sourcePoint" />
+            <mxPoint x="665.0000000000001" y="1273.86" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
