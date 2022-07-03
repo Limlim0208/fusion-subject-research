@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T18:25:14.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zwDuitLWWBkaIYMq9wbB" version="20.0.4" type="github">
-  <diagram id="-CiU27pWFB98loKzCeVX" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-07-03T18:37:24.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Pk5jFSReunvmqnv00Gn3" version="20.0.4" type="github" pages="2">
+  <diagram id="-CiU27pWFB98loKzCeVX" name="혈당량 조절">
     <mxGraphModel dx="1208" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -209,6 +209,91 @@
             <Array as="points">
               <mxPoint x="590" y="1240" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="voekdac1dKnCsgZimbij" name="티록신 분비 조절">
+    <mxGraphModel dx="885" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-1" target="0OhIv0oQzZkTBCitj2a1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-2" target="0OhIv0oQzZkTBCitj2a1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-2" value="혈중 티록신 양&lt;br&gt;증가 or 감소?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-4" target="0OhIv0oQzZkTBCitj2a1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-4" value="시상하부에서 TRH 분비" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-6" target="0OhIv0oQzZkTBCitj2a1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-6" value="뇌하수체 전엽에서 TSH 분비" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-8" target="0OhIv0oQzZkTBCitj2a1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-8" value="갑상샘에서 티록신 분비" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-10" value="혈중 티록신 농도 증가" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-12" value="감소" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="304" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-15" value="증가" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="155" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-18" target="0OhIv0oQzZkTBCitj2a1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-18" value="시상하부에서 TRH 분비 억제" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-20" target="0OhIv0oQzZkTBCitj2a1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-20" value="뇌하수체 전엽에서 TSH 분비 억제" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-22" target="0OhIv0oQzZkTBCitj2a1-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-22" value="갑상샘에서 티록신 분비 억제" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-23" value="혈중 티록신 농도 감소" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;elbow=vertical;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="0OhIv0oQzZkTBCitj2a1-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="680" as="sourcePoint" />
+            <mxPoint x="400" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0OhIv0oQzZkTBCitj2a1-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="680" as="sourcePoint" />
+            <mxPoint x="414" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
