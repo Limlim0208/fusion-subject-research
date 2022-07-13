@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T00:09:16.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GfbY_p1JYFg4g020QKkh" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-13T18:09:51.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="w-fcwJRiMSnea1YC4QLq" version="20.0.4" type="github" pages="4">
   <diagram id="-CiU27pWFB98loKzCeVX" name="혈당량 조절">
-    <mxGraphModel dx="1661" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
         <mxCell id="36XTxiDIFt-cpU3XtYKq-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" parent="1" source="36XTxiDIFt-cpU3XtYKq-43" target="36XTxiDIFt-cpU3XtYKq-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="36XTxiDIFt-cpU3XtYKq-43" value="70&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;x&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;90?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-43" value="70&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;x&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;99?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="36XTxiDIFt-cpU3XtYKq-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" parent="1" source="36XTxiDIFt-cpU3XtYKq-47" target="36XTxiDIFt-cpU3XtYKq-49" edge="1">
@@ -110,7 +110,7 @@
         <mxCell id="36XTxiDIFt-cpU3XtYKq-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" parent="1" source="36XTxiDIFt-cpU3XtYKq-74" target="36XTxiDIFt-cpU3XtYKq-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="36XTxiDIFt-cpU3XtYKq-74" value="x←x+1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-74" value="x←x+7" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="36XTxiDIFt-cpU3XtYKq-78" value="70&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;x&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;90?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -155,7 +155,7 @@
         <mxCell id="36XTxiDIFt-cpU3XtYKq-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" parent="1" source="36XTxiDIFt-cpU3XtYKq-100" target="36XTxiDIFt-cpU3XtYKq-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="36XTxiDIFt-cpU3XtYKq-100" value="x←x+1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="36XTxiDIFt-cpU3XtYKq-100" value="x←x-7" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="984" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="36XTxiDIFt-cpU3XtYKq-101" value="70&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;x&lt;span style=&quot;color: rgb(32, 33, 36); font-family: &amp;quot;Apple SD Gothic Neo&amp;quot;, arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;≤&lt;/span&gt;90?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -215,7 +215,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="voekdac1dKnCsgZimbij" name="티록신 분비 조절">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1300" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,6 +254,9 @@
         <mxCell id="0OhIv0oQzZkTBCitj2a1-8" value="갑상샘에서 티록신 분비" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="K5AG5wQw-p4p91Ognkk2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-10" target="K5AG5wQw-p4p91Ognkk2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0OhIv0oQzZkTBCitj2a1-10" value="혈중 티록신 농도 증가" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -284,23 +287,20 @@
         <mxCell id="0OhIv0oQzZkTBCitj2a1-23" value="혈중 티록신 농도 감소" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0OhIv0oQzZkTBCitj2a1-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;elbow=vertical;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="0OhIv0oQzZkTBCitj2a1-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="680" as="sourcePoint" />
-            <mxPoint x="400" y="630" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="K5AG5wQw-p4p91Ognkk2-1" value="끝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0OhIv0oQzZkTBCitj2a1-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0OhIv0oQzZkTBCitj2a1-23" edge="1">
+        <mxCell id="K5AG5wQw-p4p91Ognkk2-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0OhIv0oQzZkTBCitj2a1-23" target="K5AG5wQw-p4p91Ognkk2-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="464" y="680" as="sourcePoint" />
-            <mxPoint x="414" y="220" as="targetPoint" />
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ev4K4wv7p7zLoNf4mg7W" name="체온 조절">
-    <mxGraphModel dx="2391" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1725" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,7 +325,7 @@
         <mxCell id="nDe7f9_Xg3ymzGbjaNX4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="nDe7f9_Xg3ymzGbjaNX4-5" target="nDe7f9_Xg3ymzGbjaNX4-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nDe7f9_Xg3ymzGbjaNX4-5" value="t&amp;gt;36.5?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nDe7f9_Xg3ymzGbjaNX4-5" value="t&amp;gt;36?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="334" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nDe7f9_Xg3ymzGbjaNX4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="nDe7f9_Xg3ymzGbjaNX4-7" target="nDe7f9_Xg3ymzGbjaNX4-11" edge="1">
@@ -387,7 +387,7 @@
         <mxCell id="nDe7f9_Xg3ymzGbjaNX4-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="nDe7f9_Xg3ymzGbjaNX4-38" target="nDe7f9_Xg3ymzGbjaNX4-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nDe7f9_Xg3ymzGbjaNX4-38" value="t=36.5?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nDe7f9_Xg3ymzGbjaNX4-38" value="t=36?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="334" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nDe7f9_Xg3ymzGbjaNX4-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nDe7f9_Xg3ymzGbjaNX4-3" target="nDe7f9_Xg3ymzGbjaNX4-38" edge="1">
@@ -405,7 +405,7 @@
             <mxPoint x="444" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-3TJG1gPhYsk00IlvZi7-1" value="t←t+0.1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-3TJG1gPhYsk00IlvZi7-1" value="t←t+1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-3TJG1gPhYsk00IlvZi7-14" value="열 발생량 증가" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
@@ -414,19 +414,19 @@
         <mxCell id="-3TJG1gPhYsk00IlvZi7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="-3TJG1gPhYsk00IlvZi7-16" target="-3TJG1gPhYsk00IlvZi7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-3TJG1gPhYsk00IlvZi7-16" value="간뇌 시상하부에서 TRH 분비량 증가" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-3TJG1gPhYsk00IlvZi7-16" value="간뇌 시상하부에서 TRH 분비 증가" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-390" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-3TJG1gPhYsk00IlvZi7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="-3TJG1gPhYsk00IlvZi7-18" target="-3TJG1gPhYsk00IlvZi7-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-3TJG1gPhYsk00IlvZi7-18" value="뇌하수체에서 TSH 분비량 증가" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-3TJG1gPhYsk00IlvZi7-18" value="뇌하수체에서 TSH 분비 증가" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-390" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-3TJG1gPhYsk00IlvZi7-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="-3TJG1gPhYsk00IlvZi7-20" target="nDe7f9_Xg3ymzGbjaNX4-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-3TJG1gPhYsk00IlvZi7-20" value="갑상샘에서 티록신 분비량 증가" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-3TJG1gPhYsk00IlvZi7-20" value="갑상샘에서 티록신 분비 증가" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-390" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-3TJG1gPhYsk00IlvZi7-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="-3TJG1gPhYsk00IlvZi7-68" target="-3TJG1gPhYsk00IlvZi7-71" edge="1">
@@ -462,7 +462,7 @@
         <mxCell id="-3TJG1gPhYsk00IlvZi7-75" value="간에서 물질대사 억제" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-3TJG1gPhYsk00IlvZi7-76" value="t←t-0.1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-3TJG1gPhYsk00IlvZi7-76" value="t←t-1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-3TJG1gPhYsk00IlvZi7-77" value="열 발생량 감소" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
@@ -475,16 +475,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-3TJG1gPhYsk00IlvZi7-79" value="간뇌 시상하부에서 TRH 분비량 증가" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-3TJG1gPhYsk00IlvZi7-79" value="간뇌 시상하부에서 TRH 분비 감소" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-3TJG1gPhYsk00IlvZi7-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="-3TJG1gPhYsk00IlvZi7-81" target="-3TJG1gPhYsk00IlvZi7-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-3TJG1gPhYsk00IlvZi7-81" value="뇌하수체에서 TSH 분비량 증가" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-3TJG1gPhYsk00IlvZi7-81" value="뇌하수체에서 TSH 분비 감소" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="840" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-3TJG1gPhYsk00IlvZi7-82" value="갑상샘에서 티록신 분비량 증가" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-3TJG1gPhYsk00IlvZi7-82" value="갑상샘에서 티록신 분비 감소" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="840" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-3TJG1gPhYsk00IlvZi7-83" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;elbow=vertical;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-3TJG1gPhYsk00IlvZi7-82" target="-3TJG1gPhYsk00IlvZi7-75" edge="1">
@@ -517,33 +517,41 @@
             <mxPoint x="-100" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-1" value="참" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-1" value="참" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="390" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-2" value="거짓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-2" value="거짓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="334" y="450" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-4" value="t=36.5?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-4" value="t=36.5?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="165" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="nDe7f9_Xg3ymzGbjaNX4-5" target="RW3ZpTwYVVwMs-dCsOXG-4">
+        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="nDe7f9_Xg3ymzGbjaNX4-5" target="RW3ZpTwYVVwMs-dCsOXG-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="590" as="sourcePoint" />
             <mxPoint x="250" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-7" value="거짓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-7" value="거짓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="125" y="535" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RW3ZpTwYVVwMs-dCsOXG-4" target="nDe7f9_Xg3ymzGbjaNX4-42">
+        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="RW3ZpTwYVVwMs-dCsOXG-4" target="nDe7f9_Xg3ymzGbjaNX4-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="560" as="sourcePoint" />
             <mxPoint x="390" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-9" value="참" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RW3ZpTwYVVwMs-dCsOXG-9" value="참" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="500" width="40" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PUR35hRNghuENgJyzOZH" name="삼투압 조절">
+    <mxGraphModel dx="1300" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
