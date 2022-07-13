@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T23:24:45.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="AC9-EEkHykN1_0f_Ktob" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-13T00:09:16.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GfbY_p1JYFg4g020QKkh" version="20.1.1" type="github" pages="3">
   <diagram id="-CiU27pWFB98loKzCeVX" name="혈당량 조절">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1661" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
