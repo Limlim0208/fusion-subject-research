@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T19:05:20.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7G6EcN1lOsZcFln2XQga" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-13T19:06:10.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uq0XfDbo_1NOg-EDH7OF" version="20.1.1" type="github" pages="4">
   <diagram id="-CiU27pWFB98loKzCeVX" name="혈당량 조절">
     <mxGraphModel dx="762" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -606,119 +606,119 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PUR35hRNghuENgJyzOZH" name="삼투압 조절">
-    <mxGraphModel dx="1529" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ykx7JXwbqxifLBub2sqI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HEHbaFYB8A25KTgUlbFA-1" target="Ykx7JXwbqxifLBub2sqI-2">
+        <mxCell id="Ykx7JXwbqxifLBub2sqI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HEHbaFYB8A25KTgUlbFA-1" target="Ykx7JXwbqxifLBub2sqI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HEHbaFYB8A25KTgUlbFA-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" width="120" height="60" as="geometry" />
+        <mxCell id="HEHbaFYB8A25KTgUlbFA-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ykx7JXwbqxifLBub2sqI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" edge="1" parent="1" source="Ykx7JXwbqxifLBub2sqI-2" target="Ykx7JXwbqxifLBub2sqI-3">
+        <mxCell id="Ykx7JXwbqxifLBub2sqI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;elbow=vertical;" parent="1" source="Ykx7JXwbqxifLBub2sqI-2" target="Ykx7JXwbqxifLBub2sqI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ykx7JXwbqxifLBub2sqI-2" value="x" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ykx7JXwbqxifLBub2sqI-2" value="x" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ykx7JXwbqxifLBub2sqI-3" target="0_jNalwOQM39XTURuwiY-1">
+        <mxCell id="0_jNalwOQM39XTURuwiY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ykx7JXwbqxifLBub2sqI-3" target="0_jNalwOQM39XTURuwiY-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ykx7JXwbqxifLBub2sqI-3" value="체내 수분량&lt;br&gt;x(%) 입력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ykx7JXwbqxifLBub2sqI-3" value="체내 수분량&lt;br&gt;x(%) 입력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_jNalwOQM39XTURuwiY-1" target="0_jNalwOQM39XTURuwiY-15">
+        <mxCell id="0_jNalwOQM39XTURuwiY-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0_jNalwOQM39XTURuwiY-1" target="0_jNalwOQM39XTURuwiY-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-26" value="거짓" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0_jNalwOQM39XTURuwiY-16">
+        <mxCell id="0_jNalwOQM39XTURuwiY-26" value="거짓" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0_jNalwOQM39XTURuwiY-16" vertex="1" connectable="0">
           <mxGeometry x="-0.2221" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_jNalwOQM39XTURuwiY-1" target="0_jNalwOQM39XTURuwiY-8">
+        <mxCell id="0_jNalwOQM39XTURuwiY-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0_jNalwOQM39XTURuwiY-1" target="0_jNalwOQM39XTURuwiY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-25" value="참" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0_jNalwOQM39XTURuwiY-24">
+        <mxCell id="0_jNalwOQM39XTURuwiY-25" value="참" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0_jNalwOQM39XTURuwiY-24" vertex="1" connectable="0">
           <mxGeometry x="-0.2925" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-1" value="50&amp;lt;=x&amp;lt;=60?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0_jNalwOQM39XTURuwiY-1" value="50&amp;lt;=x&amp;lt;=60?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-8" value="끝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0_jNalwOQM39XTURuwiY-8" value="끝" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_jNalwOQM39XTURuwiY-15" target="0_jNalwOQM39XTURuwiY-17">
+        <mxCell id="0_jNalwOQM39XTURuwiY-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0_jNalwOQM39XTURuwiY-15" target="0_jNalwOQM39XTURuwiY-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-21" value="참" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0_jNalwOQM39XTURuwiY-18">
+        <mxCell id="0_jNalwOQM39XTURuwiY-21" value="참" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0_jNalwOQM39XTURuwiY-18" vertex="1" connectable="0">
           <mxGeometry x="-0.3087" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0_jNalwOQM39XTURuwiY-15" target="h9Q9Mk75khbkCFr4T57M-2">
+        <mxCell id="0_jNalwOQM39XTURuwiY-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0_jNalwOQM39XTURuwiY-15" target="h9Q9Mk75khbkCFr4T57M-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-23" value="거짓" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0_jNalwOQM39XTURuwiY-20">
+        <mxCell id="0_jNalwOQM39XTURuwiY-23" value="거짓" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0_jNalwOQM39XTURuwiY-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2085" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-15" value="x&amp;lt;50?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0_jNalwOQM39XTURuwiY-15" value="x&amp;lt;50?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XKHHsr8WeH8y7vOCbFFT-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0_jNalwOQM39XTURuwiY-17" target="XKHHsr8WeH8y7vOCbFFT-1">
+        <mxCell id="XKHHsr8WeH8y7vOCbFFT-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0_jNalwOQM39XTURuwiY-17" target="XKHHsr8WeH8y7vOCbFFT-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0_jNalwOQM39XTURuwiY-17" value="뇌하수체 후엽에 체내 수분 부족 정보 전달" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0_jNalwOQM39XTURuwiY-17" value="뇌하수체 후엽에 체내 수분 부족 정보 전달" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKHHsr8WeH8y7vOCbFFT-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XKHHsr8WeH8y7vOCbFFT-1" target="XKHHsr8WeH8y7vOCbFFT-3">
+        <mxCell id="XKHHsr8WeH8y7vOCbFFT-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XKHHsr8WeH8y7vOCbFFT-1" target="XKHHsr8WeH8y7vOCbFFT-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XKHHsr8WeH8y7vOCbFFT-1" value="뇌하수체 후엽에서 ADH 분비 증가" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XKHHsr8WeH8y7vOCbFFT-1" value="뇌하수체 후엽에서 ADH 분비 증가" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="saxMpJ_lbVApUuTF75Ua-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XKHHsr8WeH8y7vOCbFFT-3" target="saxMpJ_lbVApUuTF75Ua-1">
+        <mxCell id="saxMpJ_lbVApUuTF75Ua-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XKHHsr8WeH8y7vOCbFFT-3" target="saxMpJ_lbVApUuTF75Ua-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XKHHsr8WeH8y7vOCbFFT-3" value="콩팥에서 수분 재흡수 촉진" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XKHHsr8WeH8y7vOCbFFT-3" value="콩팥에서 수분 재흡수 촉진" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SoOjz-tx2YgtzxLKyOUK-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="saxMpJ_lbVApUuTF75Ua-1" target="0_jNalwOQM39XTURuwiY-1">
+        <mxCell id="SoOjz-tx2YgtzxLKyOUK-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="saxMpJ_lbVApUuTF75Ua-1" target="0_jNalwOQM39XTURuwiY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="saxMpJ_lbVApUuTF75Ua-1" value="x←x+3" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="saxMpJ_lbVApUuTF75Ua-1" value="x←x+3" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h9Q9Mk75khbkCFr4T57M-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h9Q9Mk75khbkCFr4T57M-2" target="h9Q9Mk75khbkCFr4T57M-4">
+        <mxCell id="h9Q9Mk75khbkCFr4T57M-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h9Q9Mk75khbkCFr4T57M-2" target="h9Q9Mk75khbkCFr4T57M-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h9Q9Mk75khbkCFr4T57M-2" value="뇌하수체 후엽에 체내 수분 과잉 정보 전달" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h9Q9Mk75khbkCFr4T57M-2" value="뇌하수체 후엽에 체내 수분 과잉 정보 전달" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h9Q9Mk75khbkCFr4T57M-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h9Q9Mk75khbkCFr4T57M-4" target="h9Q9Mk75khbkCFr4T57M-6">
+        <mxCell id="h9Q9Mk75khbkCFr4T57M-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h9Q9Mk75khbkCFr4T57M-4" target="h9Q9Mk75khbkCFr4T57M-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h9Q9Mk75khbkCFr4T57M-4" value="뇌하수체 후엽에서 ADH 분비 감소" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h9Q9Mk75khbkCFr4T57M-4" value="뇌하수체 후엽에서 ADH 분비 감소" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h9Q9Mk75khbkCFr4T57M-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h9Q9Mk75khbkCFr4T57M-6" target="h9Q9Mk75khbkCFr4T57M-7">
+        <mxCell id="h9Q9Mk75khbkCFr4T57M-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h9Q9Mk75khbkCFr4T57M-6" target="h9Q9Mk75khbkCFr4T57M-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h9Q9Mk75khbkCFr4T57M-6" value="콩팥에서 수분 재흡수 감소" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h9Q9Mk75khbkCFr4T57M-6" value="콩팥에서 수분 재흡수 감소" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h9Q9Mk75khbkCFr4T57M-7" value="x←x-3" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h9Q9Mk75khbkCFr4T57M-7" value="x←x-3" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h9Q9Mk75khbkCFr4T57M-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="h9Q9Mk75khbkCFr4T57M-7" target="0_jNalwOQM39XTURuwiY-1">
+        <mxCell id="h9Q9Mk75khbkCFr4T57M-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="h9Q9Mk75khbkCFr4T57M-7" target="0_jNalwOQM39XTURuwiY-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="680" as="sourcePoint" />
             <mxPoint x="560" y="630" as="targetPoint" />
